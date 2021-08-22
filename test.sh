@@ -1,0 +1,1 @@
+docker run --name some-nginx -d nginx && docker logs some-nginx --follow
